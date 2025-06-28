@@ -1,0 +1,16 @@
+allure-pytest==2.14.3
+allure-python-commons==2.14.3
+attrs==25.3.0
+certifi==2025.6.15
+charset-normalizer==3.4.2
+colorama==0.4.6
+Faker==37.4.0
+idna==3.10
+iniconfig==2.1.0
+packaging==25.0
+pluggy==1.6.0
+Pygments==2.19.1
+pytest==8.4.1
+requests==2.32.4
+tzdata==2025.2
+urllib3==2.4.0

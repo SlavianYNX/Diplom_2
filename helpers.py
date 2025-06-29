@@ -6,10 +6,11 @@ class UserData:
     @staticmethod
     def create_user_data():
         faker = Faker()
-        user_data = {"email": faker.email(),
-                    "password": faker.password(),
-                    "name": faker.first_name()
-                     }
+        user_data = {
+            "email": faker.email(),
+            "password": faker.password(),
+            "name": faker.first_name()
+            }
         return user_data
 
     @staticmethod
